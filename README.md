@@ -1,6 +1,6 @@
 # tokenizer
 
-Примеры разбора в ноутбуке: github.com/Strunnick/tokenizer/blob/main/g_analiser_test.ipynb
+Примеры разбора в ноутбуке: http://github.com/Strunnick/tokenizer/blob/main/g_analiser_test.ipynb
 
 g_analiser - основной класс Grafem_Analiser.
 Реализует расстановку тегов:
